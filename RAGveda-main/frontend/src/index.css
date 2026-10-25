@@ -1,0 +1,104 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #0A0A0A;
+    color: #E5E5E5;
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+/* Custom Exposed Structure & Hardware Blueprint Utilities */
+.hardware-panel {
+  background: rgba(18, 18, 18, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid #262626;
+  position: relative;
+}
+
+.hardware-panel:hover {
+  border-color: #383838;
+}
+
+/* Corner Screws / Alignment Marks for Exposed Structure Metaphor */
+.corner-cross::before {
+  content: "+";
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  color: #525252;
+  line-height: 1;
+}
+
+.corner-cross::after {
+  content: "+";
+  position: absolute;
+  bottom: 4px;
+  right: 6px;
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  color: #525252;
+  line-height: 1;
+}
+
+/* Schematic Label Tag */
+.schematic-tag {
+  font-family: "Space Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #737373;
+}
+
+/* Addressable LED Glow Effects */
+.led-glow-green {
+  box-shadow: 0 0 8px rgba(0, 255, 102, 0.6);
+}
+
+.led-glow-amber {
+  box-shadow: 0 0 8px rgba(255, 184, 0, 0.6);
+}
+
+.led-glow-tamra {
+  box-shadow: 0 0 10px rgba(255, 85, 0, 0.6);
+}
+
+/* High-Density Citation Monospace */
+.font-statute {
+  font-family: "JetBrains Mono", monospace;
+  font-feature-settings: "zero" 1, "calt" 1;
+}
+
+/* Custom Technical Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0A0A0A;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #262626;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #404040;
+}
+
+/* Respect Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

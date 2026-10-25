@@ -1,0 +1,270 @@
+{
+  "database": "TKDL Codified Prior-Art Benchmark Reference Database",
+  "curator": "CSIR-TKDL & Ministry of AYUSH",
+  "total_records_indexed": 430000,
+  "curated_sample_records": [
+    {
+      "tkdl_id": "TKDL-AYU-001248",
+      "classical_name": "Yogaraja Guggulu",
+      "sanskrit_name": "योगराज गुग्गुलु",
+      "authoritative_source": "Bhavaprakasha, Vatavyadhi Chikitsa / Sharangadhara Samhita Madhyama Khanda Chapter 7",
+      "primary_ingredients": [
+        {
+          "sanskrit": "Guggulu",
+          "botanical": "Commiphora mukul / Commiphora wightii",
+          "part": "Exudate/Resin"
+        },
+        {
+          "sanskrit": "Chitraka",
+          "botanical": "Plumbago zeylanica",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Pippalimula",
+          "botanical": "Piper longum",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Ajamoda",
+          "botanical": "Trachyspermum roxburghianum / Apium leptophyllum",
+          "part": "Fruit"
+        },
+        {
+          "sanskrit": "Vidanga",
+          "botanical": "Embelia ribes",
+          "part": "Fruit"
+        },
+        {
+          "sanskrit": "Rasna",
+          "botanical": "Pluchea lanceolata",
+          "part": "Leaf/Root"
+        },
+        {
+          "sanskrit": "Gokshura",
+          "botanical": "Tribulus terrestris",
+          "part": "Fruit"
+        },
+        {
+          "sanskrit": "Triphala (Haritaki, Bibhitaki, Amalaki)",
+          "botanical": "Terminalia chebula, Terminalia bellirica, Phyllanthus emblica",
+          "part": "Pericarp"
+        },
+        {
+          "sanskrit": "Trikatu (Shunti, Maricha, Pippali)",
+          "botanical": "Zingiber officinale, Piper nigrum, Piper longum",
+          "part": "Rhizome/Fruit"
+        }
+      ],
+      "dosage_form": "Vati / Gutika (Tablet)",
+      "classical_indications": [
+        "Amavata (Rheumatoid arthritis)",
+        "Sandhigata Vata (Osteoarthritis)",
+        "Kativata (Lumbago)",
+        "Sciatica",
+        "Gout (Vatarakta)"
+      ],
+      "sec_3p_patent_risk": "Severe (100% Codified Prior Art)",
+      "patent_filing_status": "Composition patent bar under Section 3(p) & 3(e). Attempting to patent this formulation for joint pain / arthritis will trigger immediate Section 3(p) rejection based on TKDL citations.",
+      "allowable_ip_avenues": [
+        "Coined Brand Trademark (Class 5)",
+        "Novel Phytosome / Nano-emulsion NDDS patent",
+        "Standardized Purified Fraction (Phytopharmaceutical under CDSCO New Drugs Rules)",
+        "Unique Blister / Bottle Industrial Design (Designs Act 2000)"
+      ]
+    },
+    {
+      "tkdl_id": "TKDL-AYU-004592",
+      "classical_name": "Dashamularishta",
+      "sanskrit_name": "दशमूलारिष्ट",
+      "authoritative_source": "Bhaishajya Ratnavali, Sharangadhara Samhita, Ayurvedic Formulary of India (AFI Part-I)",
+      "primary_ingredients": [
+        {
+          "sanskrit": "Dashamula (Bilva, Agnimantha, Shyonaka, Patala, Gambhari, Brihati, Kantakari, Shalaparni, Prishniparni, Gokshura)",
+          "botanical": "Aegle marmelos, Premna integrifolia, Oroxylum indicum, Stereospermum suaveolens, Gmelina arborea, Solanum indicum, Solanum surattense, Desmodium gangeticum, Uraria picta, Tribulus terrestris",
+          "part": "Roots"
+        },
+        {
+          "sanskrit": "Chitraka",
+          "botanical": "Plumbago zeylanica",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Pushkaramula",
+          "botanical": "Inula racemosa",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Lodhra",
+          "botanical": "Symplocos racemosa",
+          "part": "Bark"
+        },
+        {
+          "sanskrit": "Guduchi",
+          "botanical": "Tinospora cordifolia",
+          "part": "Stem"
+        },
+        {
+          "sanskrit": "Dhataki (Fermentation initiator)",
+          "botanical": "Woodfordia fruticosa",
+          "part": "Flower"
+        }
+      ],
+      "dosage_form": "Arishta (Self-generated herbal hydro-alcoholic fermentation)",
+      "classical_indications": [
+        "Sutikaroga (Post-partum convalescence)",
+        "Vatavyadhi",
+        "Kasa (Cough)",
+        "Shwasa (Asthma)",
+        "General Debility"
+      ],
+      "sec_3p_patent_risk": "Severe (100% Codified Prior Art)",
+      "patent_filing_status": "Barred under Section 3(p).",
+      "allowable_ip_avenues": [
+        "Class 5 Trademark",
+        "Patenting isolated microbial fermentation strain (under Budapest Treaty) if novel and non-obvious",
+        "Process patent for alcohol-free vacuum de-alcoholization method"
+      ]
+    },
+    {
+      "tkdl_id": "TKDL-AYU-007812",
+      "classical_name": "Chyawanprash Avaleha",
+      "sanskrit_name": "च्यवनप्राश अवलेह",
+      "authoritative_source": "Charaka Samhita, Chikitsa Sthana Chapter 1:1, Rasayana Adhyaya / AFI Part-I",
+      "primary_ingredients": [
+        {
+          "sanskrit": "Amalaki (Fresh Amla)",
+          "botanical": "Phyllanthus emblica",
+          "part": "Fruit pulp"
+        },
+        {
+          "sanskrit": "Dashamula herbs",
+          "botanical": "10 Classical roots",
+          "part": "Roots"
+        },
+        {
+          "sanskrit": "Pippali",
+          "botanical": "Piper longum",
+          "part": "Fruit"
+        },
+        {
+          "sanskrit": "Guduchi",
+          "botanical": "Tinospora cordifolia",
+          "part": "Stem"
+        },
+        {
+          "sanskrit": "Shatavari",
+          "botanical": "Asparagus racemosus",
+          "part": "Tuberous root"
+        },
+        {
+          "sanskrit": "Ashwagandha",
+          "botanical": "Withania somnifera",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Ghrita & Til Taila",
+          "botanical": "Cow Ghee & Sesame oil",
+          "part": "Lipid vehicle"
+        },
+        {
+          "sanskrit": "Tugaksheeri / Vamshalochana",
+          "botanical": "Bambusa bambos",
+          "part": "Siliceous secretion"
+        }
+      ],
+      "dosage_form": "Avaleha (Herbal Jam / Electuary)",
+      "classical_indications": [
+        "Rasayana (Rejuvenation/Immunomodulation)",
+        "Kasa-Shwasa (Respiratory wellness)",
+        "Brimhana (Strength promoter)"
+      ],
+      "sec_3p_patent_risk": "Severe (100% Codified Prior Art)",
+      "patent_filing_status": "Barred under Section 3(p). Word mark Chyawanprash is generic (cannot be registered alone under Trade Marks Act Section 9(1)(b)).",
+      "allowable_ip_avenues": [
+        "Composite Trademark (e.g. BrandName + Chyawanprash with logo)",
+        "Sugar-free standardized stevioside / prebiotic matrix formulation patent if synergistic stability is proven",
+        "Ayurveda Aahar food registration under FSSAI Regulations 2022"
+      ]
+    },
+    {
+      "tkdl_id": "TKDL-AYU-009120",
+      "classical_name": "Triphala Churna",
+      "sanskrit_name": "त्रिफला चूर्ण",
+      "authoritative_source": "Charaka Samhita, Sushruta Samhita, Sharangadhara Samhita Madhyama Khanda",
+      "primary_ingredients": [
+        {
+          "sanskrit": "Haritaki",
+          "botanical": "Terminalia chebula",
+          "part": "Pericarp"
+        },
+        {
+          "sanskrit": "Bibhitaki",
+          "botanical": "Terminalia bellirica",
+          "part": "Pericarp"
+        },
+        {
+          "sanskrit": "Amalaki",
+          "botanical": "Phyllanthus emblica",
+          "part": "Pericarp"
+        }
+      ],
+      "dosage_form": "Churna (Coarse/Fine Powder)",
+      "classical_indications": [
+        "Deepana/Pachana (Digestive health)",
+        "Vibandha (Constipation)",
+        "Chakshushya (Eye health)",
+        "Prameha (Metabolic support)",
+        "Vrana Shodhana (Wound cleansing)"
+      ],
+      "sec_3p_patent_risk": "Severe (100% Codified Prior Art)",
+      "patent_filing_status": "Barred under Section 3(p) & 3(e).",
+      "allowable_ip_avenues": [
+        "Phytopharmaceutical standardized fraction (min 4 bio-markers: Gallic acid, Ellagic acid, Chebulagic acid, Corilagin) with Phase II/III clinical trials for IBD under New Drugs Rules 2019",
+        "Effervescent instant dissolving tablet technology patent",
+        "Trade Mark in Class 5/3"
+      ]
+    },
+    {
+      "tkdl_id": "TKDL-AYU-011430",
+      "classical_name": "Ashwagandhadi Lehya / Churna",
+      "sanskrit_name": "अश्वगंधादि चूर्ण",
+      "authoritative_source": "Bhaishajya Ratnavali, Sharangadhara Samhita, AFI",
+      "primary_ingredients": [
+        {
+          "sanskrit": "Ashwagandha",
+          "botanical": "Withania somnifera",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Shatavari",
+          "botanical": "Asparagus racemosus",
+          "part": "Root"
+        },
+        {
+          "sanskrit": "Kapikacchu",
+          "botanical": "Mucuna pruriens",
+          "part": "Seed"
+        },
+        {
+          "sanskrit": "Shweta Musali",
+          "botanical": "Asparagus adscendens / Chlorophytum borivilianum",
+          "part": "Tuber"
+        }
+      ],
+      "dosage_form": "Churna / Lehya",
+      "classical_indications": [
+        "Balya (Strength promoter)",
+        "Vrishya (Aphrodisiac/Vitality)",
+        "Rasayana",
+        "Kshaya (Wasting diseases)",
+        "Stress/Anxiety relief"
+      ],
+      "sec_3p_patent_risk": "Severe (100% Codified Prior Art)",
+      "patent_filing_status": "Barred under Section 3(p).",
+      "allowable_ip_avenues": [
+        "Standardized Withanolide A + Withanoside IV submicron liposome delivery patent",
+        "Proprietary clinical trial backed extract with specific bioavailability enhancement ratio"
+      ]
+    }
+  ]
+}

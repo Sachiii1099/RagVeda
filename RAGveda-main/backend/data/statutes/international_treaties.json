@@ -1,0 +1,94 @@
+{
+  "act_id": "international_treaties",
+  "act_title": "International IP & Genetic Resource Treaties (WIPO GRATK 2024, TRIPS, Nagoya Protocol, PCT)",
+  "jurisdiction": "International",
+  "authority": "World Intellectual Property Organization (WIPO), World Trade Organization (WTO), CBD Secretariat",
+  "official_url": "https://www.wipo.int/meetings/en/doc_details.jsp?doc_id=633465",
+  "last_amended": "2024-05-24 (Adoption of WIPO GRATK Treaty)",
+  "chunks": [
+    {
+      "chunk_id": "INTL-WIPO-GRATK-2024",
+      "act_title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)",
+      "chapter": "Substantive Provisions",
+      "section": "Article 3, Article 4 & Article 5",
+      "title": "Mandatory Disclosure of Origin for Genetic Resources and Associated Traditional Knowledge in Patent Applications",
+      "legal_text": "Article 3.1: Where the claimed invention in a patent application is based on genetic resources, each Contracting Party shall require applicants to disclose the country of origin of the genetic resources, or, if the country of origin is not known, the source of the genetic resources. Article 3.2: Where the claimed invention in a patent application is based on traditional knowledge associated with genetic resources, each Contracting Party shall require applicants to disclose the Indigenous Peoples or local community, as applicable, who provided the traditional knowledge, or the source. Article 4: Sanctions and remedies shall be provided for failure to disclose, including refusal of grant or post-grant revocation in cases of fraudulent intent.",
+      "explanation": "Historic treaty concluded on May 24, 2024. Establishes a binding global requirement across all signatory patent offices to mandate disclosure of genetic resources and traditional knowledge origin, preventing biopiracy internationally.",
+      "jurisdiction": "International",
+      "topic": "international_treaty",
+      "keywords": [
+        "WIPO GRATK Treaty 2024",
+        "Article 3",
+        "mandatory disclosure",
+        "genetic resources",
+        "traditional knowledge origin",
+        "biopiracy",
+        "global patent standard"
+      ],
+      "official_url": "https://www.wipo.int/meetings/en/doc_details.jsp?doc_id=633465"
+    },
+    {
+      "chunk_id": "INTL-TRIPS-ART27",
+      "act_title": "WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+      "chapter": "Part II: Standards Concerning Availability, Scope and Use of IPRs",
+      "section": "Article 27.1, 27.2 & 27.3(b)",
+      "title": "Patentable Subject Matter and Exclusions for Plants and Traditional Medicine",
+      "legal_text": "Article 27.1: Patents shall be available for any inventions, whether products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application. Article 27.2: Members may exclude from patentability inventions, the prevention within their territory of the commercial exploitation of which is necessary to protect ordre public or morality, including to protect human, animal or plant life or health. Article 27.3(b): Members may also exclude from patentability plants and animals other than micro-organisms, and essentially biological processes for the production of plants or animals. However, Members shall provide for the protection of plant varieties either by patents or by an effective sui generis system (as implemented in India by PPV&FR Act 2001).",
+      "explanation": "TRIPS allows flexibility for member nations to exclude unrefined botanical products and require sui generis plant variety protection.",
+      "jurisdiction": "International",
+      "topic": "international_treaty",
+      "keywords": [
+        "TRIPS Article 27",
+        "patentable subject matter",
+        "ordre public",
+        "plant variety exclusion",
+        "sui generis",
+        "WTO"
+      ],
+      "official_url": "https://www.wto.org/english/docs_e/legal_e/27-trips_04_e.htm"
+    },
+    {
+      "chunk_id": "INTL-CBD-NAGOYA",
+      "act_title": "Convention on Biological Diversity (CBD) & Nagoya Protocol on Access and Benefit Sharing",
+      "chapter": "Access and Benefit-Sharing Regime",
+      "section": "Nagoya Protocol Articles 5, 6, 15 & 16",
+      "title": "International Access and Benefit Sharing (ABS), Prior Informed Consent (PIC) and Mutually Agreed Terms (MAT)",
+      "legal_text": "Article 5: Benefits arising from the utilization of genetic resources as well as subsequent applications and commercialization shall be shared in a fair and equitable way with the Party providing such resources. Article 6: Access to genetic resources for their utilization shall be subject to the Prior Informed Consent (PIC) of the Contracting Party providing such resources. Mutually Agreed Terms (MAT) must be negotiated. Article 15 & 16: Compliance obligations require user countries to ensure that genetic resources utilized within their jurisdiction have been accessed in accordance with the domestic ABS legislation of the provider country (e.g. Indian Biological Diversity Act).",
+      "explanation": "Exporting Ayurvedic biological materials or clinical products to Europe, Japan, or other Nagoya signatory nations requires an Internationally Recognized Certificate of Compliance (IRCC) generated by NBA India.",
+      "jurisdiction": "International",
+      "topic": "international_treaty",
+      "keywords": [
+        "Nagoya Protocol",
+        "CBD",
+        "Prior Informed Consent",
+        "PIC",
+        "MAT",
+        "benefit sharing",
+        "IRCC",
+        "international compliance"
+      ],
+      "official_url": "https://www.cbd.int/abs/text/"
+    },
+    {
+      "chunk_id": "INTL-PCT-MADRID",
+      "act_title": "Patent Cooperation Treaty (PCT) & Madrid Protocol for AYUSH Global Filings",
+      "chapter": "Global IP Filing Systems",
+      "section": "PCT Rule 51bis & Madrid System Class 5",
+      "title": "International Patent and Trademark Filing Pathways for Ayurvedic Formulations",
+      "legal_text": "PCT System: Filing an international patent application under PCT gives an applicant 30/31 months from priority date to enter national phases (US, EP, JP, CA, AU). Under PCT Rule 51bis, national offices may require evidence of compliance with national biodiversity access laws (such as NBA clearance from India). Madrid System: Centralized trademark registration across 130+ countries for AYUSH brand names under Class 5 (herbal medicines), Class 3 (ayurvedic skincare), and Class 30 (herbal infusions) through a single application filed with IP India as office of origin.",
+      "explanation": "Enables AYUSH startups to scale IP globally while ensuring compliance with origin disclosure and centralized brand protection.",
+      "jurisdiction": "International",
+      "topic": "international_treaty",
+      "keywords": [
+        "PCT",
+        "Madrid Protocol",
+        "international patent",
+        "Rule 51bis",
+        "national phase",
+        "AYUSH export",
+        "global trademark"
+      ],
+      "official_url": "https://www.wipo.int/pct/en/"
+    }
+  ]
+}

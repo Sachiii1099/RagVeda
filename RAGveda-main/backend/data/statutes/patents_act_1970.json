@@ -1,0 +1,117 @@
+{
+  "act_id": "patents_act_1970",
+  "act_title": "The Patents Act, 1970 (as amended up to Patents (Amendment) Rules, 2024)",
+  "jurisdiction": "India",
+  "authority": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM), DPIIT, Ministry of Commerce and Industry",
+  "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf",
+  "last_amended": "2024-03-15 (Patents Amendment Rules 2024)",
+  "chunks": [
+    {
+      "chunk_id": "PAT-SEC-3P",
+      "act_title": "The Patents Act, 1970",
+      "chapter": "Chapter II: Inventions Not Patentable",
+      "section": "Section 3(p)",
+      "title": "What are not inventions - Traditional Knowledge Bar",
+      "legal_text": "The following are not inventions within the meaning of this Act: (p) an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components.",
+      "explanation": "Section 3(p) was inserted by the Patents (Amendment) Act, 2002 to prevent patenting of traditional knowledge, particularly codified systems like Ayurveda, Siddha, and Unani. An applicant claiming an Ayurvedic formulation cannot obtain a patent if the therapeutic efficacy or combination of plants is already known in classical texts or folk traditions. To overcome Section 3(p), the applicant must establish a surprising/synergistic technical effect beyond mere aggregation of known properties, novel extraction methods resulting in unexpected therapeutic profiles, or novel non-obvious drug delivery mechanisms.",
+      "jurisdiction": "India",
+      "topic": "patent",
+      "keywords": [
+        "traditional knowledge",
+        "Section 3(p)",
+        "aggregation of properties",
+        "Ayurveda",
+        "TKDL",
+        "prior art",
+        "classical formulation",
+        "herbal medicine",
+        "synergism"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf"
+    },
+    {
+      "chunk_id": "PAT-SEC-3D",
+      "act_title": "The Patents Act, 1970",
+      "chapter": "Chapter II: Inventions Not Patentable",
+      "section": "Section 3(d)",
+      "title": "What are not inventions - Incremental Innovations and Mere Discovery of Known Substances",
+      "legal_text": "The following are not inventions within the meaning of this Act: (d) the mere discovery of a new form of a known substance which does not result in the enhancement of the known efficacy of that substance or the mere discovery of any new property or new use for a known substance or of the mere use of a known process, machine or apparatus unless such known process results in a new product or employs at least one new reactant. Explanation.—For the purposes of this clause, salts, esters, ethers, polymorphs, metabolites, pure form, particle size, isomers, mixtures of isomers, complexes, combinations and other derivatives of known substance shall be considered to be the same substance, unless they differ significantly in properties with regard to efficacy.",
+      "explanation": "In the context of Ayurvedic and herbal bioactive extracts, isolated phytochemicals or modified fractions from known medicinal plants (such as curcuminoids, withanolides, or boswellic acids) must demonstrate significant therapeutic efficacy enhancement over the known compound to overcome Section 3(d). Mere purification, particle size reduction (e.g. standard nano-emulsion), or new therapeutic indication without enhanced clinical efficacy is non-patentable.",
+      "jurisdiction": "India",
+      "topic": "patent",
+      "keywords": [
+        "Section 3(d)",
+        "known substance",
+        "efficacy enhancement",
+        "therapeutic efficacy",
+        "derivatives",
+        "phytochemicals",
+        "herbal extract"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf"
+    },
+    {
+      "chunk_id": "PAT-SEC-3E",
+      "act_title": "The Patents Act, 1970",
+      "chapter": "Chapter II: Inventions Not Patentable",
+      "section": "Section 3(e)",
+      "title": "What are not inventions - Mere Admixtures and Synergism Requirement",
+      "legal_text": "The following are not inventions within the meaning of this Act: (e) a substance obtained by a mere admixture resulting only in aggregation of the properties of the components thereof or a process for producing such substance.",
+      "explanation": "Herbal polyherbal formulations comprising combinations of multiple classical herbs (e.g., Ashwagandha + Shatavari + Gokshura) are deemed mere admixtures under Section 3(e) unless experimental comparative data demonstrates synergistic interaction. The applicant must file comparative pharmacological data showing that the combination index (CI < 1) or therapeutic outcome is greater than the sum of individual herbal components.",
+      "jurisdiction": "India",
+      "topic": "patent",
+      "keywords": [
+        "Section 3(e)",
+        "admixture",
+        "synergy",
+        "synergism",
+        "polyherbal",
+        "aggregation",
+        "combination index"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf"
+    },
+    {
+      "chunk_id": "PAT-SEC-10-4",
+      "act_title": "The Patents Act, 1970",
+      "chapter": "Chapter III: Applications for Patents",
+      "section": "Section 10(4)(d)(ii)",
+      "title": "Mandatory Disclosure of Biological Source and Geographical Origin",
+      "legal_text": "Every complete specification shall: (d) disclose the source and geographical origin of the biological material in the specification, when used in an invention. If the biological material is obtained from India, the applicant must disclose the exact state, district, or region from where the plant/herb was sourced, and declare whether approval of the National Biodiversity Authority has been obtained or sought under Section 6 of the Biological Diversity Act, 2002.",
+      "explanation": "Failure to disclose the source and geographical origin of biological material or giving false information is a ground for pre-grant opposition under Section 25(1)(j), post-grant opposition under Section 25(2)(j), and revocation of the patent under Section 64(1)(p) of the Patents Act, 1970.",
+      "jurisdiction": "India",
+      "topic": "patent",
+      "keywords": [
+        "Section 10(4)",
+        "source disclosure",
+        "geographical origin",
+        "biological material",
+        "NBA approval",
+        "patent specification",
+        "revocation"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf"
+    },
+    {
+      "chunk_id": "PAT-RULES-2024",
+      "act_title": "The Patents (Amendment) Rules, 2024",
+      "chapter": "Patent Rules Framework",
+      "section": "Rule 12, Rule 24B & Rule 138 (2024 Amendments)",
+      "title": "Expedited Examination, Start-up Concessions, and Reduced Timelines",
+      "legal_text": "The Patents (Amendment) Rules, 2024 notified on March 15, 2024 introduced key procedural reforms: 1. Request for Examination (RFE) under Rule 24B reduced from 48 months to 31 months from the priority date for new filings. 2. Section 8 Statement and Undertaking regarding foreign filings streamlined (Rule 12). 3. 80% fee concession for recognized start-ups, small entities, and educational institutions in AYUSH biotechnology and pharmaceutical research. 4. Discount of 10% on official fees for renewal if paid in advance for at least 4 years.",
+      "explanation": "AYUSH researchers and MSMEs can leverage expedited examination (Form 18A) if registered as recognized Startups (DPIIT) or Women Inventors, accelerating patent grant within 12-18 months.",
+      "jurisdiction": "India",
+      "topic": "patent",
+      "keywords": [
+        "Patent Rules 2024",
+        "Rule 24B",
+        "Rule 12",
+        "expedited examination",
+        "AYUSH startup",
+        "fee concession",
+        "DPIIT"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf"
+    }
+  ]
+}

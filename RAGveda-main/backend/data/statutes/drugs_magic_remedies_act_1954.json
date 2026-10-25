@@ -1,0 +1,31 @@
+{
+  "act_id": "drugs_magic_remedies_act_1954",
+  "act_title": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 & Rules 1955",
+  "jurisdiction": "India",
+  "authority": "Ministry of Health & Family Welfare / State Drug Licensing Authorities",
+  "official_url": "https://indiacode.nic.in/bitstream/123456789/1544/1/195421.pdf",
+  "last_amended": "2020-02-03 (Draft Amendment)",
+  "chunks": [
+    {
+      "chunk_id": "DMR-SEC-3-PROHIBIT",
+      "act_title": "The Drugs and Magic Remedies Act, 1954",
+      "chapter": "General Provisions",
+      "section": "Section 3 & Schedule",
+      "title": "Prohibition of Advertisements for Specified Diseases and Disorders",
+      "legal_text": "Section 3: No person shall take any part in the publication of any advertisement referring to any drug in terms which suggest or are calculated to lead to the use of that drug for: (a) the procurement of miscarriage in women or prevention of conception in women; or (b) the maintenance or improvement of the capacity of human beings for sexual pleasure; or (c) the correction of menstrual disorder in women; or (d) the diagnosis, cure, mitigation, treatment or prevention of any disease, disorder or condition specified in the Schedule (including Diabetes, Cancer, Cataract, Deafness, Heart diseases, Kidney stones, Leprosy, Paralysis, Rheumatism/Arthritis, Tuberculosis, High/Low Blood Pressure).",
+      "explanation": "Ayurvedic manufacturers are strictly prohibited from advertising direct cures or guarantees for diseases listed in the Schedule. Marketing language must be limited to supportive health, rejuvenation (Rasayana), or balance of doshas.",
+      "jurisdiction": "India",
+      "topic": "advertising",
+      "keywords": [
+        "Section 3 DMR",
+        "magic remedies",
+        "prohibited advertisements",
+        "Schedule diseases",
+        "diabetes claim",
+        "cancer claim",
+        "advertising compliance"
+      ],
+      "official_url": "https://indiacode.nic.in/bitstream/123456789/1544/1/195421.pdf"
+    }
+  ]
+}

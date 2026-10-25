@@ -1,0 +1,140 @@
+{
+  "act_id": "drugs_and_cosmetics_act_1940",
+  "act_title": "The Drugs and Cosmetics Act, 1940 & Drugs and Cosmetics Rules, 1945 (Chapter IV-A: ASU Provisions & Rule 158B)",
+  "jurisdiction": "India",
+  "authority": "Central Drugs Standard Control Organisation (CDSCO) & Ministry of AYUSH / State Licensing Authorities (SLA)",
+  "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf",
+  "last_amended": "2024-01-10",
+  "chunks": [
+    {
+      "chunk_id": "DCA-SEC-3A",
+      "act_title": "The Drugs and Cosmetics Act, 1940",
+      "chapter": "Chapter I: Introductory",
+      "section": "Section 3(a)",
+      "title": "Definition of Ayurvedic, Siddha or Unani (ASU) Drug",
+      "legal_text": "Section 3(a): Ayurvedic, Siddha or Unani drug includes all medicines intended for internal or external use for or in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, and manufactured exclusively in accordance with the formulae described in the authoritative books of Ayurvedic, Siddha and Unani (Tibb) systems of medicine, specified in the First Schedule.",
+      "explanation": "To qualify as a classical Ayurvedic drug under Section 3(a), the formulation must adhere strictly to the composition, proportion, and manufacturing method prescribed in one of the 54 authoritative texts listed in the First Schedule. No safety data or clinical trials are required for classical drugs; only standard GMP compliance and textual reference are needed for a Form 25D license.",
+      "jurisdiction": "India",
+      "topic": "drug_regulatory",
+      "keywords": [
+        "Section 3(a)",
+        "classical ASU drug",
+        "authoritative books",
+        "First Schedule",
+        "Form 25D",
+        "GMP compliance",
+        "traditional recipe"
+      ],
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf"
+    },
+    {
+      "chunk_id": "DCA-SEC-3H",
+      "act_title": "The Drugs and Cosmetics Act, 1940",
+      "chapter": "Chapter I: Introductory",
+      "section": "Section 3(h)",
+      "title": "Definition of Patent or Proprietary Medicine in ASU System",
+      "legal_text": "Section 3(h): patent or proprietary medicine in relation to Ayurvedic, Siddha or Unani systems means a formulation containing only ingredients mentioned in the formulae described in the authoritative books of Ayurveda, Siddha or Unani (Tibb) systems of medicine specified in the First Schedule, but which is not a classical formulation described in any such book.",
+      "explanation": "A Patent or Proprietary (P&P) ASU medicine uses ingredients exclusively found in the First Schedule authoritative texts, but combines them in novel ratios, uses modern dosage forms (e.g., tablets, capsules, gels, syrups), or combines extracts from different classical texts. It requires licensing under Rule 158B with proof of safety/efficacy.",
+      "jurisdiction": "India",
+      "topic": "drug_regulatory",
+      "keywords": [
+        "Section 3(h)",
+        "Patent or Proprietary",
+        "P&P medicine",
+        "novel combination",
+        "classical ingredients",
+        "Rule 158B",
+        "modern dosage form"
+      ],
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf"
+    },
+    {
+      "chunk_id": "DCA-RULE-158B",
+      "act_title": "The Drugs and Cosmetics Rules, 1945",
+      "chapter": "Part XVI: Manufacture for Sale of ASU Drugs",
+      "section": "Rule 158B",
+      "title": "Guidelines for Issue of License with Respect to ASU Drugs (Safety & Efficacy Evidence Matrix)",
+      "legal_text": "Rule 158B establishes evidence criteria for licensing ASU drugs under Form 25D: 1. Category I (Classical ASU Drugs): Manufactured exactly as per First Schedule text. Evidence required: Reference to authoritative text. No safety/efficacy trials required. 2. Category II (ASU Patent or Proprietary Drugs): (A) Ingredients referenced in authoritative texts, with minor modifications or change in dosage form for same indication: Published literature and safety data. (B) New indication for known classical formulation or novel polyherbal combination: Acute toxicity data (OECD guidelines) + Proof of effectiveness (Pilot clinical trial / published clinical studies). (C) ASU drug with new excipient/preservative/vehicle: Safety and stability testing data.",
+      "explanation": "Rule 158B sets the regulatory boundary: Classical ASU requires only textual citation, whereas Patent & Proprietary formulations need acute toxicity data and clinical effectiveness trials depending on novelty and indication.",
+      "jurisdiction": "India",
+      "topic": "drug_regulatory",
+      "keywords": [
+        "Rule 158B",
+        "safety data",
+        "acute toxicity",
+        "pilot clinical trial",
+        "licensing guidelines",
+        "Category I",
+        "Category II",
+        "authoritative text reference"
+      ],
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf"
+    },
+    {
+      "chunk_id": "DCA-PHYTO-RULES",
+      "act_title": "Drugs and Cosmetics Rules, 1945 & New Drugs Rules, 2019",
+      "chapter": "Phytopharmaceutical Drug Regulatory Framework",
+      "section": "Rule 2(eb) & Schedule Y / Chapter XI New Drugs Rules",
+      "title": "Phytopharmaceutical Drugs - Definition, Standardization & Clinical Approval Pathway",
+      "legal_text": "A Phytopharmaceutical Drug is defined as a purified and standardized fraction with defined minimum 4 bioactive marker compounds (quantitatively characterized by HPLC/LC-MS) obtained from an extract of a medicinal plant or its parts, for internal or external use of human beings or animals for diagnosis, treatment, mitigation or prevention of any disease. Regulatory pathway: Approved directly by CDSCO (DCGI) under the New Drugs and Clinical Trial Rules, 2019. Requires: 1. Full botanical identification and geographic source traceability; 2. Complete chromatographic fingerprinting with 4 bio-markers; 3. Preclinical animal toxicity (safety pharmacology, genotoxicity, repeat dose 28-90 days); 4. Phase I, Phase II, and Phase III human clinical trials.",
+      "explanation": "Phytopharmaceuticals are modern pharmaceutical drugs derived from standardized plant fractions. They represent the highest tier of patentability (composition of matter / purified extract patents) but require rigorous CDSCO clinical trial approvals similar to modern synthetic drugs.",
+      "jurisdiction": "India",
+      "topic": "drug_regulatory",
+      "keywords": [
+        "Phytopharmaceutical",
+        "4 bioactive markers",
+        "standardized fraction",
+        "CDSCO",
+        "DCGI approval",
+        "New Drugs Rules 2019",
+        "Phase I/II/III trials",
+        "fingerprinting"
+      ],
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf"
+    },
+    {
+      "chunk_id": "DCA-FIRST-SCHEDULE",
+      "act_title": "The Drugs and Cosmetics Act, 1940",
+      "chapter": "First Schedule: Authoritative Texts of ASU Systems",
+      "section": "First Schedule (54 Recognized Texts)",
+      "title": "Recognized Authoritative Books of Ayurveda, Siddha and Unani",
+      "legal_text": "The First Schedule lists 54 authoritative books of Ayurvedic medicine, including: 1. Charaka Samhita, 2. Sushruta Samhita, 3. Ashtanga Hridaya, 4. Ashtanga Sangraha, 5. Sharangadhara Samhita, 6. Bhavaprakasha, 7. Bhaishajya Ratnavali, 8. Yogaratnakara, 9. Rasaratna Samucchaya, 10. Chakradatta, 11. Madhava Nidana, 12. Ayurvedic Formulary of India (AFI - Part I, II, III), 13. Ayurvedic Pharmacopoeia of India (API - Volumes I-X), 14. Sahasrayogam, 15. Gada Nigraha, 16. Rasatarangini, 17. Siddha Bheshaja Manimala, 18. Arka Prakasha, 19. Kashyapa Samhita.",
+      "explanation": "Formulations matching recipes in any of these 54 texts are classified as Classical Ayurvedic Drugs under Section 3(a). Formulations using ingredients from these texts in novel ways are Patent & Proprietary ASU drugs under Section 3(h).",
+      "jurisdiction": "India",
+      "topic": "drug_regulatory",
+      "keywords": [
+        "First Schedule",
+        "Charaka Samhita",
+        "Sushruta Samhita",
+        "Ashtanga Hridaya",
+        "AFI",
+        "API",
+        "Bhavaprakasha",
+        "authoritative books",
+        "54 texts"
+      ],
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf"
+    },
+    {
+      "chunk_id": "DCA-COSMETICS-ASU",
+      "act_title": "The Drugs and Cosmetics Act, 1940 & Rules 1945",
+      "chapter": "Part XIII / XIV: Cosmetics and ASU External Formulations",
+      "section": "Rule 158 / Cosmetics Rules 2020",
+      "title": "Ayurvedic Cosmetics vs ASU Drugs for External Use",
+      "legal_text": "Ayurvedic formulations intended exclusively for beautifying, cleansing, promoting attractiveness, or altering the appearance without making medicinal or therapeutic disease cure claims can be licensed as Ayurvedic Cosmetics under the State AYUSH Licensing Authority. If the product claims therapeutic treatment of skin diseases (e.g. psoriasis, eczema, acne vulgaris treatment), it must be licensed as an ASU Drug (Classical or P&P) and comply with GMP Schedule T.",
+      "explanation": "Cosmetic classification allows faster market entry with standard stability and safety testing, but strictly restricts therapeutic marketing claims on labels.",
+      "jurisdiction": "India",
+      "topic": "drug_regulatory",
+      "keywords": [
+        "Ayurvedic Cosmetic",
+        "external use",
+        "beauty",
+        "cleansing",
+        "Schedule T",
+        "therapeutic claims",
+        "cosmetic rules"
+      ],
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf"
+    }
+  ]
+}

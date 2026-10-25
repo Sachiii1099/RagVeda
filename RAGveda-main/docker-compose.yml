@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ./apps/api
+      dockerfile: Dockerfile
+    container_name: ip_sakti_api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./ip_sakti.db
+      - STT_API_KEY=${STT_API_KEY:-}
+      - LLM_API_KEY=${LLM_API_KEY:-}
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./apps/web
+      dockerfile: Dockerfile
+    container_name: ip_sakti_web
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+    restart: unless-stopped

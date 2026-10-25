@@ -1,0 +1,52 @@
+{
+  "act_id": "fssai_ayurveda_aahar_2022",
+  "act_title": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+  "jurisdiction": "India",
+  "authority": "Food Safety and Standards Authority of India (FSSAI) & Ministry of AYUSH",
+  "official_url": "https://www.fssai.gov.in/upload/notifications/2022/05/627a4175ce082Gazette_Notification_Ayurveda_Aahar_09_05_2022.pdf",
+  "last_amended": "2022-05-09 (Gazette Notification F. No. Std/SP-05/A-Aahar/FSSAI-2021)",
+  "chunks": [
+    {
+      "chunk_id": "FSSAI-REG-2-DEF",
+      "act_title": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+      "chapter": "General Regulations",
+      "section": "Regulation 2 & Regulation 3",
+      "title": "Definition of Ayurveda Aahar & Food Regulatory Scope",
+      "legal_text": "Regulation 2(a): Ayurveda Aahar means food prepared in accordance with the recipes/ingredients/processes described in the authoritative books of Ayurveda listed under Schedule A of these regulations, but shall not include: (i) Ayurvedic drugs or medicines; (ii) proprietary Ayurvedic medicines; (iii) medicinal products under Drugs and Cosmetics Act; (iv) narcotic or psychotropic substances. Regulation 3: Any novel food recipe prepared by adopting the principles of Ayurveda or containing botanicals referenced in classical texts for dietary use requires prior approval from the Food Authority (FSSAI Expert Committee on Ayurveda Aahar).",
+      "explanation": "Ayurveda Aahar provides a regulatory category for herbal teas, decoction powders, health cookies, kheer, soups, and dietary formulations rooted in classical texts. They are licensed as Food by FSSAI, not as drugs under the DCA 1940.",
+      "jurisdiction": "India",
+      "topic": "food_ayurveda_aahar",
+      "keywords": [
+        "Ayurveda Aahar",
+        "Regulation 2",
+        "Regulation 3",
+        "FSSAI",
+        "dietary food",
+        "Schedule A",
+        "nutraceutical",
+        "food approval"
+      ],
+      "official_url": "https://www.fssai.gov.in/upload/notifications/2022/05/627a4175ce082Gazette_Notification_Ayurveda_Aahar_09_05_2022.pdf"
+    },
+    {
+      "chunk_id": "FSSAI-REG-4-LABEL",
+      "act_title": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+      "chapter": "Labeling and Standards",
+      "section": "Regulation 4 & Schedule B",
+      "title": "Mandatory Labeling, Ayurveda Aahar Logo, and Prohibition for Infants",
+      "legal_text": "Regulation 4: 1. Every package of Ayurveda Aahar shall display the words AYURVEDA AAHAR in immediate proximity to the name of the food. 2. Must prominently display the official Ayurveda Aahar Logo (Green leaf with stylized Ayush mortar and bowl). 3. Must specify the target consumer group, physiological condition, and recommended duration/dose. 4. Mandatory Warning: NOT FOR MEDICINAL USE and NOT RECOMMENDED FOR INFANTS UP TO THE AGE OF 24 MONTHS. 5. Prohibited Additives (Schedule B): Synthetic vitamins, minerals, pure chemical isolates, and Schedule E(1) toxic plants (such as Vatsanabha, Kupilu, Bhang, Gunja) are strictly prohibited in Ayurveda Aahar.",
+      "explanation": "Strict labeling compliance is mandatory: must feature the Ayurveda Aahar logo, exclude synthetic additives, and display infant restrictions.",
+      "jurisdiction": "India",
+      "topic": "food_ayurveda_aahar",
+      "keywords": [
+        "Ayurveda Aahar Logo",
+        "Regulation 4",
+        "Schedule B prohibited additives",
+        "infant warning",
+        "labeling standards",
+        "not for medicinal use"
+      ],
+      "official_url": "https://www.fssai.gov.in/upload/notifications/2022/05/627a4175ce082Gazette_Notification_Ayurveda_Aahar_09_05_2022.pdf"
+    }
+  ]
+}

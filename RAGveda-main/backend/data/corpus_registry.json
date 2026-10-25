@@ -1,0 +1,175 @@
+{
+  "version": "2026.1-AYUSH-PROD",
+  "last_updated": "2026-08-29",
+  "curator": "Ministry of AYUSH / All India Institute of Ayurveda IP Facilitation Cell",
+  "sources": [
+    {
+      "id": "patents_act_1970",
+      "title": "The Patents Act, 1970 (as amended up to Patents (Amendment) Rules, 2024)",
+      "jurisdiction": "India",
+      "authority": "Controller General of Patents, Designs and Trade Marks (CGPDTM), DPIIT",
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_31_1_patent-act-1970-11march2015.pdf",
+      "last_verified": "2026-08-01",
+      "key_sections": [
+        "Section 3(p)",
+        "Section 3(d)",
+        "Section 3(e)",
+        "Section 10(4)(d)(ii)",
+        "Rule 12",
+        "Rule 24B",
+        "Patent Rules 2024"
+      ],
+      "topic": "patent",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "biological_diversity_act_2002",
+      "title": "The Biological Diversity Act, 2002 (as amended by Biological Diversity (Amendment) Act, 2023 & Rules 2024)",
+      "jurisdiction": "India",
+      "authority": "National Biodiversity Authority (NBA) & State Biodiversity Boards (SBB)",
+      "official_url": "http://nbaindia.org/uploaded/pdf/BiologicalDiversityAct2002.pdf",
+      "last_verified": "2026-08-15",
+      "key_sections": [
+        "Section 3",
+        "Section 4",
+        "Section 6",
+        "Section 7",
+        "Section 21",
+        "Section 23",
+        "Section 40",
+        "NBA Form I",
+        "NBA Form III",
+        "ABS Regulations 2024"
+      ],
+      "topic": "biodiversity",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "drugs_and_cosmetics_act_1940",
+      "title": "The Drugs and Cosmetics Act, 1940 & Drugs and Cosmetics Rules, 1945 (Chapter IV-A: ASU Provisions & Rule 158B)",
+      "jurisdiction": "India",
+      "authority": "Central Drugs Standard Control Organisation (CDSCO) & Ministry of AYUSH",
+      "official_url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/Drugs_and_Cosmetics_Act_1940_rules_1945.pdf",
+      "last_verified": "2026-08-10",
+      "key_sections": [
+        "Section 3(a)",
+        "Section 3(h)",
+        "Section 33EEA",
+        "Rule 158B",
+        "First Schedule",
+        "Phytopharmaceutical Drug Rules 2015/2019",
+        "Form 24D",
+        "Form 25D"
+      ],
+      "topic": "drug_regulatory",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "fssai_ayurveda_aahar_2022",
+      "title": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+      "jurisdiction": "India",
+      "authority": "Food Safety and Standards Authority of India (FSSAI) & Ministry of AYUSH",
+      "official_url": "https://www.fssai.gov.in/upload/notifications/2022/05/627a4175ce082Gazette_Notification_Ayurveda_Aahar_09_05_2022.pdf",
+      "last_verified": "2026-08-05",
+      "key_sections": [
+        "Regulation 2",
+        "Regulation 3",
+        "Regulation 4",
+        "Regulation 5",
+        "Regulation 6",
+        "Schedule A",
+        "Schedule B",
+        "Ayurveda Aahar Logo Standard"
+      ],
+      "topic": "food_ayurveda_aahar",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "geographical_indications_act_1999",
+      "title": "The Geographical Indications of Goods (Registration and Protection) Act, 1999 & Rules 2002",
+      "jurisdiction": "India",
+      "authority": "Geographical Indications Registry, IP India",
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_49_1_gi-act-1999.pdf",
+      "last_verified": "2026-07-20",
+      "key_sections": [
+        "Section 2(e)",
+        "Section 9",
+        "Section 21",
+        "Section 66",
+        "AYUSH Registered GIs"
+      ],
+      "topic": "gi_trademark",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "trademarks_and_designs_acts",
+      "title": "The Trade Marks Act, 1999 & The Designs Act, 2000 (AYUSH Application Specifics)",
+      "jurisdiction": "India",
+      "authority": "Trade Marks Registry & Designs Office, IP India",
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_43_1_trade-marks-act.pdf",
+      "last_verified": "2026-07-15",
+      "key_sections": [
+        "Section 9(1)(b)",
+        "Section 11",
+        "Nice Class 5",
+        "Nice Class 3",
+        "Nice Class 29/30/32",
+        "Designs Act Section 4"
+      ],
+      "topic": "gi_trademark",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "drugs_magic_remedies_act_1954",
+      "title": "The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 & Rules 1955",
+      "jurisdiction": "India",
+      "authority": "Ministry of Health & Family Welfare / State Drug Control Licensing Authorities",
+      "official_url": "https://indiacode.nic.in/bitstream/123456789/1544/1/195421.pdf",
+      "last_verified": "2026-07-10",
+      "key_sections": [
+        "Section 3",
+        "Section 4",
+        "Section 5",
+        "Schedule of Prohibited Diseases (54 entries)"
+      ],
+      "topic": "advertising",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "tkdl_prior_art_policy",
+      "title": "Traditional Knowledge Digital Library (TKDL) Access & Prior Art Defense Policy",
+      "jurisdiction": "India / International",
+      "authority": "CSIR-TKDL & Ministry of AYUSH",
+      "official_url": "https://www.tkdl.res.in",
+      "last_verified": "2026-08-20",
+      "key_sections": [
+        "TKDL Defensive Repository",
+        "Access Agreements with 16+ Patent Offices",
+        "Pre-Grant Opposition Mechanism",
+        "Section 3(p) Citations",
+        "Codified Formulation Corpus"
+      ],
+      "topic": "tkdl_prior_art",
+      "status": "Active / Verified Primary Source"
+    },
+    {
+      "id": "international_treaties",
+      "title": "International IP & Genetic Resource Treaties (WIPO GRATK 2024, TRIPS, Nagoya Protocol, PCT)",
+      "jurisdiction": "International",
+      "authority": "WIPO / WTO / CBD Secretariat",
+      "official_url": "https://www.wipo.int/meetings/en/doc_details.jsp?doc_id=633465",
+      "last_verified": "2026-08-25",
+      "key_sections": [
+        "WIPO GRATK Treaty 2024 (Art 3, Art 4, Art 5)",
+        "TRIPS Agreement Art 27",
+        "CBD Art 15",
+        "Nagoya Protocol Arts 5/6/15",
+        "PCT Rule 51bis",
+        "Madrid Protocol Class 5/3",
+        "Budapest Treaty"
+      ],
+      "topic": "international_treaty",
+      "status": "Active / Verified Primary Source"
+    }
+  ]
+}

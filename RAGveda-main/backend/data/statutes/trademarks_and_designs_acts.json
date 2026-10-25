@@ -1,0 +1,53 @@
+{
+  "act_id": "trademarks_and_designs_acts",
+  "act_title": "The Trade Marks Act, 1999 & The Designs Act, 2000 (AYUSH Application)",
+  "jurisdiction": "India",
+  "authority": "Trade Marks Registry & Designs Office, IP India",
+  "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_43_1_trade-marks-act.pdf",
+  "last_amended": "2021-04-04",
+  "chunks": [
+    {
+      "chunk_id": "TM-SEC-9-GENERIC",
+      "act_title": "The Trade Marks Act, 1999",
+      "chapter": "Chapter II: Grounds for Refusal of Registration",
+      "section": "Section 9(1)(b)",
+      "title": "Absolute Grounds for Refusal - Prohibition on Registering Generic Sanskrit / Classical Terms",
+      "legal_text": "Section 9(1)(b): Trade marks which consist exclusively of marks or indications which may serve in trade to designate the kind, quality, quantity, intended purpose, values, geographical origin or the time of production of the goods or of rendering of the service, or other characteristics of the goods or service shall not be registered. In AYUSH practice: Generic names of classical formulations (e.g. Triphala, Chyawanprash, Ashwagandha Churna, Dashamularishta, Trikatu) cannot be registered as exclusive word marks. Only composite marks with distinctive device/logo or coined arbitrary brand names (e.g. Dabur Chyawanprash, Baidyanath Triphala) are registrable.",
+      "explanation": "Startups cannot monopolize classical Ayurvedic names. IP protection must focus on coined brand names, distinctive logos, or proprietary composite labels in Nice Classes 5 (medicines), 3 (cosmetics), or 29/30 (herbal foods).",
+      "jurisdiction": "India",
+      "topic": "gi_trademark",
+      "keywords": [
+        "Section 9(1)(b)",
+        "generic Sanskrit names",
+        "Triphala",
+        "Chyawanprash",
+        "Class 5",
+        "Class 3",
+        "composite trademark",
+        "brand protection"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_43_1_trade-marks-act.pdf"
+    },
+    {
+      "chunk_id": "DES-SEC-4-AYUSH",
+      "act_title": "The Designs Act, 2000",
+      "chapter": "Chapter II: Registration of Designs",
+      "section": "Section 4 & Section 5",
+      "title": "Industrial Design Protection for Novel Ayurvedic Delivery Devices and Packaging",
+      "legal_text": "Section 4: A design which is not new or original, or has been disclosed to the public, or is not significantly distinguishable from known designs shall not be registered. In AYUSH industry: Novel aesthetic shapes of bottles, ergonomic herbal vaporizers, nasal inhalers (Nasya applicators), traditional copper dispensers, and unique blister packaging configurations can obtain 10+5 years of exclusive industrial design copyright under Locarno Class 9 (containers) and Class 28 (medical appliances).",
+      "explanation": "When formulation patents face Section 3(p) barriers, packaging and delivery device design registrations provide strong IP protection against visual counterfeits.",
+      "jurisdiction": "India",
+      "topic": "gi_trademark",
+      "keywords": [
+        "Designs Act 2000",
+        "Section 4",
+        "packaging design",
+        "applicator device",
+        "Locarno Class 9",
+        "bottle shape",
+        "design copyright"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_43_1_trade-marks-act.pdf"
+    }
+  ]
+}

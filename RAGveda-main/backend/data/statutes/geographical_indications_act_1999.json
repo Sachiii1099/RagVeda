@@ -1,0 +1,51 @@
+{
+  "act_id": "geographical_indications_act_1999",
+  "act_title": "The Geographical Indications of Goods (Registration and Protection) Act, 1999 & Rules 2002",
+  "jurisdiction": "India",
+  "authority": "Geographical Indications Registry, Controller General of Patents, Designs & Trade Marks (CGPDTM)",
+  "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_49_1_gi-act-1999.pdf",
+  "last_amended": "2020-11-02",
+  "chunks": [
+    {
+      "chunk_id": "GI-SEC-2E",
+      "act_title": "The Geographical Indications of Goods Act, 1999",
+      "chapter": "Chapter I: Preliminary",
+      "section": "Section 2(e)",
+      "title": "Definition of Geographical Indication in Relation to Agricultural and Natural Goods",
+      "legal_text": "Section 2(e): geographical indication in relation to goods, means an indication which identifies such goods as agricultural goods, natural goods or manufactured goods as originating, or manufactured in the territory of a country, or a region or locality in that territory, where a given quality, reputation or other characteristic of such goods is essentially attributable to its geographical origin.",
+      "explanation": "Medicinal plants, heirloom cultivars, and traditional regional Ayurvedic preparations (e.g. Navara rice for Shashtika Shali Pinda Sweda, Alleppey Green Cardamom, Malabar Pepper, Sirumalai Hill Banana) qualify for GI protection. GI protects community rights rather than private individual monopolies.",
+      "jurisdiction": "India",
+      "topic": "gi_trademark",
+      "keywords": [
+        "Section 2(e)",
+        "geographical indication",
+        "medicinal plants",
+        "Navara rice",
+        "community rights",
+        "terroir",
+        "origin quality"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_49_1_gi-act-1999.pdf"
+    },
+    {
+      "chunk_id": "GI-SEC-21-RIGHTS",
+      "act_title": "The Geographical Indications of Goods Act, 1999",
+      "chapter": "Chapter IV: Effect of Registration",
+      "section": "Section 21 & Section 22",
+      "title": "Rights Conferred by GI Registration and Prevention of Passing Off",
+      "legal_text": "Section 21: The registration of a geographical indication gives to the registered proprietor and the authorized user(s) the exclusive right to use the geographical indication in relation to the goods in respect of which the geographical indication is registered. Section 22: Infringement occurs when an unauthorized person uses the registered GI or misleads the public as to the geographical origin of the goods.",
+      "explanation": "Cultivators and Ayurvedic producer collectives registered as Authorized Users obtain statutory immunity against unfair competition and counterfeiting in domestic and export markets.",
+      "jurisdiction": "India",
+      "topic": "gi_trademark",
+      "keywords": [
+        "Section 21",
+        "authorized user",
+        "GI infringement",
+        "collective IP",
+        "AYUSH export",
+        "passing off"
+      ],
+      "official_url": "https://ipindia.gov.in/writereaddata/Portal/IPOAct/1_49_1_gi-act-1999.pdf"
+    }
+  ]
+}

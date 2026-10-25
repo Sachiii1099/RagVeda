@@ -1,0 +1,54 @@
+{
+  "act_id": "tkdl_prior_art_policy",
+  "act_title": "Traditional Knowledge Digital Library (TKDL) Access & Prior Art Defense Policy",
+  "jurisdiction": "India / International",
+  "authority": "CSIR-TKDL & Ministry of AYUSH",
+  "official_url": "https://www.tkdl.res.in",
+  "last_amended": "2024-05-01",
+  "chunks": [
+    {
+      "chunk_id": "TKDL-POL-DEFENSE",
+      "act_title": "TKDL Prior Art Defense Policy",
+      "chapter": "TKDL Repository & Defensive Protection",
+      "section": "TKDL Access Agreements & Examination Protocol",
+      "title": "TKDL Defensive Prior Art Database & International Patent Examination",
+      "legal_text": "The Traditional Knowledge Digital Library (TKDL) is a pioneering repository established by CSIR and Ministry of AYUSH containing over 430,000 digitized formulations transcribed from classical Ayurvedic, Unani, Siddha, and Sowa-Rigpa authoritative texts into English, French, German, Spanish, and Japanese. Access Agreements exist with major International Patent Offices (EPO, USPTO, JPO, CIPO, IP Australia, UKIPO, Rospatent, DKPO). International patent examiners are mandated to search TKDL before granting patents on herbal/botanical compositions. In India, CGPDTM examiners routinely cite TKDL formulations to reject applications under Section 3(p) and Section 3(e).",
+      "explanation": "TKDL acts as an unassailable prior art database. Any patent applicant claiming an Ayurvedic composition must conduct a prior art search against TKDL to avoid summary rejection or pre-grant opposition.",
+      "jurisdiction": "India / International",
+      "topic": "tkdl_prior_art",
+      "keywords": [
+        "TKDL",
+        "prior art",
+        "430,000 formulations",
+        "CSIR",
+        "EPO",
+        "USPTO",
+        "defensive protection",
+        "Section 3(p) rejection",
+        "AYUSH prior art"
+      ],
+      "official_url": "https://www.tkdl.res.in"
+    },
+    {
+      "chunk_id": "TKDL-STRATEGY-OVERCOME",
+      "act_title": "TKDL Prior Art Defense Policy",
+      "chapter": "Patent Prosecution Strategy",
+      "section": "Strategies to Overcome TKDL Section 3(p) Prior Art Objections",
+      "title": "Legitimate IP Strategies Beyond Codified Traditional Knowledge",
+      "legal_text": "To successfully obtain a patent despite TKDL prior art citations, innovators must focus on: 1. Novel Extraction Processes: Non-obvious extraction techniques (e.g., subcritical water extraction, specific solvent gradients) yielding unique phytochemical fingerprint ratios not found in classical Kashayam/Asava decoctions. 2. Demonstrated Synergism: Quantitative proof that combining two or more specific extracts exhibits unexpected synergistic therapeutic index (CI < 0.7) with in-vitro and in-vivo comparative data. 3. Novel Drug Delivery Systems (NDDS): Nanoparticle encapsulation, phospholipid complexes (phytosomes), or targeted liposomal carriers enhancing bioavailability of poorly soluble bio-markers. 4. Semi-synthetic Derivatives: Chemical modification of isolated phytochemicals exhibiting enhanced bioactivity and safety.",
+      "explanation": "Applicants should never attempt to patent classical recipes. Instead, patent the novel extraction process, pharmacokinetic delivery carrier, or scientifically demonstrated synergistic ratios.",
+      "jurisdiction": "India / International",
+      "topic": "tkdl_prior_art",
+      "keywords": [
+        "overcome Section 3(p)",
+        "NDDS",
+        "phytosome",
+        "synergy data",
+        "novel extraction process",
+        "bioavailability",
+        "patent strategy"
+      ],
+      "official_url": "https://www.tkdl.res.in"
+    }
+  ]
+}
